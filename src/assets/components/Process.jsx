@@ -58,7 +58,7 @@ function Process() {
       </div>
 
       {/* Text */}
-      <div>
+      <div className="text-right">
         <span
           className="fontB text-9xl text-[#dd5167]"
           style={{ textShadow: "0px 3px 2px #5252525c" }}
