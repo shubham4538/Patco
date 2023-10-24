@@ -1,0 +1,22 @@
+@font-face {
+  font-family: fontB;
+  src: url("./assets/fonts/Inter-Black.ttf");
+}
+@font-face {
+  font-family: fontL;
+  src: url("./assets/fonts/Inter-Light.ttf");
+}
+@font-face {
+  font-family: fontM;
+  src: url("./assets/fonts/Inter-Medium.ttf");
+}
+
+.fontL {
+  font-family: fontL;
+}
+.fontM {
+  font-family: fontM;
+}
+.fontB {
+  font-family: fontB;
+}
